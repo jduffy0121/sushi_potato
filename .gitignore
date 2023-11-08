@@ -163,3 +163,5 @@ stack*/*
 centers/*
 vault/*
 analysis/*
+
+**/.DS_Store
